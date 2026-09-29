@@ -1,0 +1,6 @@
+{
+  "name": "OceanEmbed – Subsurface Ocean Temperature AI",
+  "description": "Satellite embedding-based deep learning framework for reconstructing subsurface ocean temperature profiles from daily multi-modal surface observations (SIH26066).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
